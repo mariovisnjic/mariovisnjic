@@ -1,11 +1,4 @@
-### Hi there 👋
-
-| Current company        |      Hobbies                     |   
-|---                     |---|
-| - React, Next          |   - Gaming                       |    
-| - JS                   |  - Movies                        |    
-| - PHP                  | - Personal programming projects  |    
-| - Mongo, GraphQL       |                                  |  
+### It's a me, Mario!
 
 <!--
 **mariovisnjic/mariovisnjic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
